@@ -10,6 +10,8 @@ namespace AutomationPractice_RegressionSuite
     {
         static void Main(string[] args)
         {
+            //this is just a practice suite
+
         }
     }
 }
